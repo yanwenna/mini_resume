@@ -1,8 +1,8 @@
 Title: 个人简历
 Date: 2025-04-02
-Modified: 2025-04-02
+Modified: 2025-04-04
 Slug: resume
-Authors: 可帅好学生
+Authors: yanwenna
 save_as: index.html
 
 
@@ -10,7 +10,7 @@ save_as: index.html
 
 <div class="personal-info">
     <div class="info-header">
-        <h2 class="name">可帅好学生</h2>
+        <h2 class="name">yanwenna</h2>
         <p class="position">求职意向：数据科学家/AI研究员</p>
         <p class="age">25岁</p>
     </div>
@@ -89,19 +89,19 @@ save_as: index.html
 
 ## 教育背景
 
-### 西南财经大学 | 研究生 | 应用统计 | 2023-2026
+### 西南财经大学 | 研究生 | 应用统计 | 2025-2027
 - **核心课程**：高等统计分析、机器学习算法、深度学习、时间序列分析、计量经济学
 - **研究方向**：金融数据挖掘与AI应用
 - **GPA**：3.8/4.0（专业排名前5%）
 
-### 西南财经大学 | 本科 | 数学与应用数学 | 2019-2023
-- **核心课程**：高等数学、线性代数、概率论与数理统计、数据结构与算法
+### 西南财经大学 | 本科 | 数学与应用数学 | 2021-2025
+- **核心课程**：高等代数、数学分析、概率论与数理统计、最优化理论
 - **GPA**：3.7/4.0（专业排名前10%）
 - **荣誉**：校级优秀学生、数学建模奖学金
 
 ## 实习经历
 
-### [TAP4FUN校企合作：AI赋能游戏生态创新]({filename}/projects/tap4fun.md) | 2024.01-2024.04
+### [TAP4FUN校企合作：AI赋能游戏生态创新]({filename}/projects/tap4fun.md) | 2025.04-
 
 在人工智能技术迅猛发展的时代浪潮下，参与公司AI技术在游戏产业生态中的深度应用。项目重点突破AI智能客服系统升级和NPC智能化改造两个核心应用场景。
 
@@ -123,7 +123,7 @@ save_as: index.html
 
 ## 专业技能
 
-- **编程语言**：Python (熟练), R (熟练), SQL (熟练), Java (基础)
+- **编程语言**：Python (熟练), SQL (熟练), Java (基础)
 - **数据分析**：统计分析, 机器学习, 深度学习, 自然语言处理
 - **工具与框架**：Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Tableau
 - **软技能**：项目管理, 团队协作, 演讲与沟通, 科技写作 
