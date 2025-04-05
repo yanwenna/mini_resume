@@ -1,4 +1,4 @@
-Title: 个人简历11111
+Title: 个人简历
 Date: 2025-04-02
 Modified: 2025-04-05
 Slug: resume
@@ -126,4 +126,4 @@ save_as: index.html
 - **编程语言**：Python (熟练), SQL (熟练), Java (基础)
 - **数据分析**：统计分析, 机器学习, 深度学习, 自然语言处理
 - **工具与框架**：Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Tableau
-- **软技能**：项目管理, 团队协作, 演讲与沟通, 科技写作 
+- **软技能**：项目管理, 团队协作与沟通, 写作 
